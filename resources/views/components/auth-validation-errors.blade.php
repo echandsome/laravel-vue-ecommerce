@@ -1,5 +1,6 @@
 @props(['errors'])
 
+
 @if ($errors->any())
     <div {{ $attributes->merge(['class' => 'p-3 rounded-md bg-red-600 text-white']) }}>
         <div class="font-medium">
