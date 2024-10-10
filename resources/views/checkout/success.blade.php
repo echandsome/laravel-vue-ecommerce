@@ -3,3 +3,4 @@
         {{$customer->name}}, Your order has been completed!!
     </div>
 </x-app-layout>
+

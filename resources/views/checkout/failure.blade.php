@@ -4,3 +4,4 @@
         <p>{{$message ?? ''}}</p>
     </div>
 </x-app-layout>
+
