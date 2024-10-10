@@ -6,6 +6,7 @@
             Enter your Email to reset password
         </h2>
 
+
         <!-- Session Status -->
         <x-auth-session-status class="mb-4" :status="session('status')"/>
 
