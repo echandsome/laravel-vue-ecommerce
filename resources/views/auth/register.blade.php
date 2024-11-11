@@ -6,7 +6,6 @@
     >
         @csrf
 
-
         <h2 class="text-2xl font-semibold text-center mb-4">Create an account</h2>
         <p class="text-center text-gray-500 mb-3">
             or
